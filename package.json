@@ -1,5 +1,5 @@
 {
-  "name": "node-jt400",
+  "name": "node-jt400-i",
   "author": "Tryggingamiðstöðin <bt.hugbunadargerd@tm.is>",
   "version": "4.4.1",
   "description": "JT400 (IBM Toolbox) for NodeJS",
@@ -7,7 +7,7 @@
   "types": "dist/lib/jt400.d.ts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/tryggingamidstodin/node-jt400.git"
+    "url": "git://github.com/moodjair/node-jt400-i.git"
   },
   "files": [
     "dist/lib",
